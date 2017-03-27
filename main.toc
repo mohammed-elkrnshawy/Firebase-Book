@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Into To Book}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Firebase Definition}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}Services}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Analytics}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Firebase Analytics}{3}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Develop}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Firebase Cloud Messaging}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Auth}{4}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Realtime database}{4}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Storage}{4}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Hosting}{4}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Test Lab for Android}{4}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Crash Reporting}{4}{subsection.2.2.7}
+\contentsline {section}{\numberline {2.3}Grow}{4}{section.2.3}
+\contentsline {chapter}{\numberline {3}Connect Firebase To App}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Create Firebase Project}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Add Firebase To App}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Add Network Permission}{5}{section.3.3}
+\contentsline {chapter}{\numberline {4}Update And Retrieve Data }{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Update Date To Firebase Back-end}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Retrieve Data From Firebase Back-end}{7}{section.4.2}
+\contentsline {chapter}{\numberline {5}References}{9}{chapter.5}
