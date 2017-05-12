@@ -13,11 +13,21 @@
 \BOOKMARK [2][-]{subsection.2.2.6}{Test Lab for Android}{section.2.2}% 13
 \BOOKMARK [2][-]{subsection.2.2.7}{Crash Reporting}{section.2.2}% 14
 \BOOKMARK [1][-]{section.2.3}{Grow}{chapter.2}% 15
-\BOOKMARK [0][-]{chapter.3}{Connect Firebase To App}{}% 16
-\BOOKMARK [1][-]{section.3.1}{Create Firebase Project}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.2}{Add Firebase To App}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.3}{Add Network Permission}{chapter.3}% 19
-\BOOKMARK [0][-]{chapter.4}{Update And Retrieve Data }{}% 20
-\BOOKMARK [1][-]{section.4.1}{Update Date To Firebase Back-end}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.2}{Retrieve Data From Firebase Back-end}{chapter.4}% 22
-\BOOKMARK [0][-]{chapter.5}{References}{}% 23
+\BOOKMARK [2][-]{subsection.2.3.1}{Notifications}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Remote Config}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.3}{App Indexing}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.4}{Dynamic Links}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.5}{Invites}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.6}{Google AdWords}{section.2.3}% 21
+\BOOKMARK [0][-]{chapter.3}{Connect Firebase To App}{}% 22
+\BOOKMARK [1][-]{section.3.1}{Create Firebase Project}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{Add Firebase To App}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{Add Network Permission}{chapter.3}% 25
+\BOOKMARK [0][-]{chapter.4}{Insert And Retrieve Data }{}% 26
+\BOOKMARK [1][-]{section.4.1}{Insert Data to Firebase Back-end}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.1.1}{Create Class Places}{section.4.1}% 28
+\BOOKMARK [2][-]{subsection.4.1.2}{Design of Layout}{section.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.1.3}{Code that Insert Data}{section.4.1}% 30
+\BOOKMARK [1][-]{section.4.2}{Retrieve Data from Firebase Back-end}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.2.1}{Design Retrieve layout}{section.4.2}% 32
+\BOOKMARK [2][-]{subsection.4.2.2}{Code that retrieve data}{section.4.2}% 33
